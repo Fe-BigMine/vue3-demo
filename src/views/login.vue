@@ -32,7 +32,7 @@
         </div>
       </div>
     </el-row>
-    <footer class="footer">©️上海明运信息科技有限公司</footer>
+    <footer class="footer">©️XXXX有限公司</footer>
   </div>
 </template>
 
